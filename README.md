@@ -13,4 +13,6 @@ Repositorio de los proyectos seleccionados:
 - [MyIntegration](https://github.com/medialab-prado/myIntegration)
 - [Juego de Mesa. Datos personales](https://github.com/medialab-prado/tangibleViz)
 
-Taller 
+## Talleres
+
+- [Taller de webscraping (25/09/2018)](https://github.com/medialab-prado/visualizar18/tree/master/webscraping)
