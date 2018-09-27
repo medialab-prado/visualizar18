@@ -5,7 +5,7 @@ El taller de visualización de datos Visualizar llega a su octava edición en 20
 
 En este repositorio encontrarás material y recursos de los talleres y actividades que ocurran durante visualizar18
 
-Repositorio de los proyectos seleccionados:
+Repositorios de los proyectos seleccionados:
 
 - [Bad Data Challenge](https://github.com/medialab-prado/badDataChallenge)
 - [A9.BlackEyes](https://github.com/medialab-prado/a9BlackEyes)
